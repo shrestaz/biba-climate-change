@@ -1,4 +1,4 @@
-## Business intelligence and big data on climate change 🔥
+## Business intelligence and big data project on climate change 🔥
 
 This repo consists of of exploratory analysis of global temperature with R.
 
